@@ -6,9 +6,9 @@
 
 ## 😎 About Me
 - 🎯 Building impactful digital products at **StandaloneCoders**
-- 🛡 Full-Stack + Cybersecurity + DevOps learner  
-- 🎬 I roast bugs before they roast me 😤🐞🔥  
-- ☕ Code powered by **Chai** ❤️  
+- 🛡 Full-Stack + Cybersecurity + DevOps learner
+- 🎬 I roast bugs before they roast me 😤🐞🔥
+- ☕ Code powered by **Chai** ❤️
 - 🚀 Future **Senior Software Architect**
 
 ---
@@ -37,39 +37,39 @@
 
 ### 🎨 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind" />
 </p>
 
 ### 🔧 Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=php,mysql"/>
+  <img src="https://skillicons.dev/icons?i=php,mysql" />
 </p>
 
 ### 🛠 Tools, Platforms & OS
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,figma,vscode"/>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,figma,vscode" />
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RoastCoder&show_icons=true&theme=tokyonight"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RoastCoder&theme=tokyonight"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RoastCoder&show_icons=true&theme=tokyonight&rank_icon=github" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=RoastCoder&theme=tokyonight" />
 </p>
 
 ---
 
 ## ⭐ Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoastCoder&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoastCoder&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 📈 Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RoastCoder&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RoastCoder&theme=react-dark" />
 </p>
 
 ---
