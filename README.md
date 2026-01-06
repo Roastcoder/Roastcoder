@@ -138,10 +138,22 @@
 
 ---
 
+---
+
+## 💼 Professional Journey
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RoastCoder&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
+</p>
+
+---
+
 ## 📈 Contribution Analytics
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RoastCoder&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RoastCoder&theme=tokyo-night" />
 </p>
 
 <p align="center">
@@ -150,15 +162,11 @@
 
 ---
 
-## 🏆 GitHub Achievements
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RoastCoder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" />
+  <img src="https://github.com/RoastCoder/RoastCoder/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
----
-
-## 💼 Professional Journey
 
 <table>
 <tr>
@@ -232,6 +240,41 @@ const currentFocus = {
 
 ### 💭 My Coding Principles
 **Clean Code** • **Scalable Architecture** • **Security First** • **User Experience** • **Continuous Learning**
+
+</div>
+
+---
+
+## 📈 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+TypeScript   12 hrs 30 mins  ████████████░░░░░░░░░░░░░   48.2%
+Python       8 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   31.8%
+JavaScript   3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   14.5%
+PHP          1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░    5.8%
+```
+<!--END_SECTION:waka-->
+
+---
+
+<div align="center">
+
+### 🌟 "Code is like humor. When you have to explain it, it's bad." 🌟
+
+**Thanks for visiting my profile! Let's build something amazing together! 🚀**
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Happy+Coding!;Let's+Connect+%26+Collaborate!;Building+the+Future+Together!)](https://git.io/typing-svg)
+
+**⭐ If you like my work, show some ❤️ by starring my repositories! ⭐**
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>alable Architecture** • **Security First** • **User Experience** • **Continuous Learning**
 
 </div>
 
