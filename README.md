@@ -36,28 +36,28 @@
 
 <p align="center">
   <a href="https://github.com/RoastCoder/vyom">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=vyom&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=vyom&theme=tokyonight&cache_seconds=86400"/>
   </a>
   <a href="https://github.com/RoastCoder/finonest-website-build-6">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=finonest-website-build-6&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=finonest-website-build-6&theme=tokyonight&cache_seconds=86400"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/RoastCoder/v0-internship-application-form">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=v0-internship-application-form&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=v0-internship-application-form&theme=tokyonight&cache_seconds=86400"/>
   </a>
   <a href="https://github.com/RoastCoder/horilla">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=horilla&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=horilla&theme=tokyonight&cache_seconds=86400"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/RoastCoder/Sim-based-Tellcaller">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=Sim-based-Tellcaller&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=Sim-based-Tellcaller&theme=tokyonight&cache_seconds=86400"/>
   </a>
   <a href="https://github.com/RoastCoder/finonest-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=finonest-backend&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=finonest-backend&theme=tokyonight&cache_seconds=86400"/>
   </a>
 </p>
 
