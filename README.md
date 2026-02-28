@@ -35,39 +35,39 @@
 ## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/RoastCoder/vyom">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=vyom&theme=tokyonight&cache_seconds=86400"/>
+  <a href="https://github.com/RoastCoder/loan-credit-flow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=loan-credit-flow&theme=tokyonight&cache_seconds=86400"/>
   </a>
-  <a href="https://github.com/RoastCoder/finonest-website-build-6">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=finonest-website-build-6&theme=tokyonight&cache_seconds=86400"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/RoastCoder/v0-internship-application-form">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=v0-internship-application-form&theme=tokyonight&cache_seconds=86400"/>
-  </a>
-  <a href="https://github.com/RoastCoder/horilla">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=horilla&theme=tokyonight&cache_seconds=86400"/>
+  <a href="https://github.com/RoastCoder/mehar-hrms">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=mehar-hrms&theme=tokyonight&cache_seconds=86400"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/RoastCoder/Sim-based-Tellcaller">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=Sim-based-Tellcaller&theme=tokyonight&cache_seconds=86400"/>
+  <a href="https://github.com/RoastCoder/car-credit-hub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=car-credit-hub&theme=tokyonight&cache_seconds=86400"/>
   </a>
-  <a href="https://github.com/RoastCoder/finonest-backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=finonest-backend&theme=tokyonight&cache_seconds=86400"/>
+  <a href="https://github.com/RoastCoder/marketvry">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=marketvry&theme=tokyonight&cache_seconds=86400"/>
   </a>
 </p>
 
-### 🌟 Project Highlights
-- **🤖 VYOM** - Personal AI System with voice interface & intelligent memory management
-- **💰 Finonest Platform** - Complete MERN stack financial services platform with live deployment
-- **📋 V0 Internship Form** - Modern internship application system with real-time validation
-- **🏢 Horilla** - Open source HR software fork with custom enterprise features
-- **📱 SIM-based TellCaller** - PHP application for caller identification with database integration
-- **🔧 Finonest Backend** - Scalable Express.js API with JWT authentication & MongoDB
+<p align="center">
+  <a href="https://github.com/RoastCoder/clawbot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=clawbot&theme=tokyonight&cache_seconds=86400"/>
+  </a>
+  <a href="https://github.com/RoastCoder/Finonest-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=Finonest-website&theme=tokyonight&cache_seconds=86400"/>
+  </a>
+</p>
+
+### 🌟 Latest Project Highlights
+- **💳 Loan Credit Flow** - TypeScript-based loan management system with modern UI
+- **👥 Mehar HRMS** - Human Resource Management System with comprehensive features
+- **🚗 Car Credit Hub** - Vehicle financing platform built with TypeScript
+- **📊 MarketVry** - Market analysis platform with TypeScript frontend and PHP backend
+- **🤖 ClawBot** - Personal AI Assistant with advanced capabilities
+- **💰 Finonest Website** - Updated financial services platform with modern architecture
 
 ---
 
