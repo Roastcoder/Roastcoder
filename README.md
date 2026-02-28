@@ -1,312 +1,134 @@
-<h1 align="center">🔥 RoastCoder Here! 🔥</h1>
-<h3 align="center">Full-Stack Developer ⚡ AI Enthusiast 🤖 Cybersecurity Explorer 🛡️</h3>
-<p align="center">aka <b>Yogendra Singh</b> | Founder @ StandaloneCoders</p>
+<h1 align="center">RoastCoder</h1>
+<h3 align="center">Full-Stack Developer • AI Builder • Security-Minded Engineer</h3>
+<p align="center"><b>Yogendra Singh</b> • Founder @ StandaloneCoders</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Cybersecurity+Explorer;Open+Source+Contributor;Building+Next-Gen+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=620&lines=Building+production-grade+full-stack+apps;AI-powered+tools+and+automation;Security-first+engineering+mindset;Open-source+and+product-focused+development" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  
-[![Profile Views](https://komarev.com/ghpvc/?username=RoastCoder&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/RoastCoder)
-[![GitHub followers](https://img.shields.io/github/followers/RoastCoder?label=Followers&style=social)](https://github.com/RoastCoder?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/RoastCoder?label=Stars&style=social)](https://github.com/RoastCoder)
-
-</div>
-
----
-
-## 😎 About Me
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-- 🎯 Building next-gen digital solutions with **AI & Full-Stack Tech**
-- 🤖 Passionate about **AI/ML**, **Cybersecurity**, and **DevOps**
-- 🏢 Founder @ **StandaloneCoders** - Crafting innovative software solutions
-- 🎬 I roast bugs before they roast me 😤🐞🔥
-- ☕ Code powered by **Chai** and late-night debugging sessions ❤️
-- 🚀 Aspiring **Senior Software Architect** & **AI Engineer**
-- 🌱 Currently learning **Cloud Architecture** and **Advanced AI Systems**
-- 💬 Ask me about **React, Node.js, Python, AI/ML, Cybersecurity**
-- ⚡ Fun fact: **I debug faster than I drink coffee!**
+<p align="center">
+  <a href="https://github.com/RoastCoder">
+    <img src="https://komarev.com/ghpvc/?username=RoastCoder&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  </a>
+  <a href="https://github.com/RoastCoder?tab=followers">
+    <img src="https://img.shields.io/github/followers/RoastCoder?label=Followers&style=social" alt="Followers" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## About Me
+
+- Building scalable products across **TypeScript**, **React/Next.js**, **Node.js**, and **Python**
+- Founder at **StandaloneCoders**, delivering fintech, HRMS, CRM, and AI-driven systems
+- Focused on **AI engineering**, **cloud architecture**, and **secure-by-design development**
+- Interested in shipping practical software with clean architecture and measurable impact
+
+---
+
+## Featured Projects
 
 <p align="center">
   <a href="https://github.com/RoastCoder/loan-credit-flow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=loan-credit-flow&theme=tokyonight&cache_seconds=86400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=loan-credit-flow&theme=tokyonight&cache_seconds=86400" alt="loan-credit-flow" />
   </a>
   <a href="https://github.com/RoastCoder/mehar-hrms">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=mehar-hrms&theme=tokyonight&cache_seconds=86400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=mehar-hrms&theme=tokyonight&cache_seconds=86400" alt="mehar-hrms" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/RoastCoder/car-credit-hub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=car-credit-hub&theme=tokyonight&cache_seconds=86400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=car-credit-hub&theme=tokyonight&cache_seconds=86400" alt="car-credit-hub" />
   </a>
   <a href="https://github.com/RoastCoder/marketvry">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=marketvry&theme=tokyonight&cache_seconds=86400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=marketvry&theme=tokyonight&cache_seconds=86400" alt="marketvry" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/RoastCoder/clawbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=clawbot&theme=tokyonight&cache_seconds=86400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=clawbot&theme=tokyonight&cache_seconds=86400" alt="clawbot" />
   </a>
   <a href="https://github.com/RoastCoder/Finonest-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=Finonest-website&theme=tokyonight&cache_seconds=86400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RoastCoder&repo=Finonest-website&theme=tokyonight&cache_seconds=86400" alt="Finonest-website" />
   </a>
 </p>
 
-### 🌟 Latest Project Highlights
-- **💳 Loan Credit Flow** - TypeScript-based loan management system with modern UI
-- **👥 Mehar HRMS** - Human Resource Management System with comprehensive features
-- **🚗 Car Credit Hub** - Vehicle financing platform built with TypeScript
-- **📊 MarketVry** - Market analysis platform with TypeScript frontend and PHP backend
-- **🤖 ClawBot** - Personal AI Assistant with advanced capabilities
-- **💰 Finonest Website** - Updated financial services platform with modern architecture
+### Project Snapshot
+- **Loan Credit Flow**: Loan management system with TypeScript and a modern UI
+- **Mehar HRMS**: End-to-end HR management platform
+- **Car Credit Hub**: Vehicle financing workflow platform
+- **ClawBot / VYOM**: Personal AI assistant and automation systems
+- **Finonest Stack**: Full-stack fintech ecosystem using Next.js, NestJS, PostgreSQL, and Docker
 
 ---
 
-## 🚀 Tech Stack & Skills
+## Tech Stack
 
-<details>
-<summary><b>🎨 Frontend Development</b></summary>
-<br>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,angular" />
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,materialui" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,bootstrap" alt="Frontend" />
 </p>
-</details>
-
-<details>
-<summary><b>🔧 Backend & Database</b></summary>
-<br>
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,java,cpp" />
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,java,cpp,mysql,mongodb,postgresql,redis,firebase" alt="Backend and Databases" />
 </p>
-</details>
-
-<details>
-<summary><b>🤖 AI/ML & Data Science</b></summary>
-<br>
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,azure,linux,git,github,nginx,jenkins,postman,vscode" alt="DevOps and Tools" />
 </p>
-</details>
-
-<details>
-<summary><b>🛠 Tools, Platforms & DevOps</b></summary>
-<br>
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,aws,gcp,azure" />
-  <img src="https://skillicons.dev/icons?i=figma,vscode,postman,nginx,jenkins" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Security%20Testing-informational?style=for-the-badge" alt="Cybersecurity" />
 </p>
-</details>
-
-<details>
-<summary><b>🛡️ Cybersecurity & Others</b></summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
-</p>
-</details>
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RoastCoder&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&include_all_commits=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=RoastCoder&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RoastCoder&show_icons=true&theme=tokyonight&rank_icon=github&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=RoastCoder&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoastCoder&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoastCoder&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true&langs_count=10" alt="Top Languages" />
 </p>
 
 ---
 
-## 🏆 GitHub Achievements
+## Current Focus
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RoastCoder&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" />
-</p>
-
----
-
-## 📈 Contribution Analytics
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=RoastCoder&theme=tokyo-night" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RoastCoder&theme=tokyonight" />
-</p>
-
----
-
-## 💼 Professional Journey
-
-<table>
-<tr>
-<td width="50%">
-
-### 🏢 Experience
-- **Founder & Lead Developer** @ StandaloneCoders
-- **Team Lead & Project Manager** - Leading development teams
-- **Full-Stack Development** - MERN, Next.js, TypeScript
-- **AI/ML Engineer** - Personal AI assistants, automation
-- **Cybersecurity Specialist** - Penetration testing, audits
-- **Mobile Developer** - React Native, cross-platform apps
-
-</td>
-<td width="50%">
-
-### 🎓 Expertise Areas
-- **Frontend**: React, Next.js, Vue.js, TypeScript
-- **Backend**: Node.js, Express, PHP, Python
-- **Database**: MongoDB, MySQL, PostgreSQL
-- **AI/ML**: TensorFlow, PyTorch, OpenAI APIs
-- **DevOps**: Docker, AWS, CI/CD, Linux
-- **Security**: Penetration Testing, OWASP
-
-</td>
-</tr>
-</table>
-
----
-
-## 🎯 Current Focus & Goals
-
-```javascript
+```ts
 const currentFocus = {
   learning: ["Advanced AI Systems", "Cloud Architecture", "DevSecOps"],
-  building: ["Personal AI Assistant", "Fintech Solutions", "Security Tools"],
-  exploring: ["Blockchain Technology", "Edge Computing", "Quantum Computing"],
-  goals: ["Senior Software Architect", "AI Research", "Open Source Contributions"]
+  building: ["AI Assistants", "Fintech Platforms", "Secure SaaS Products"],
+  goals: ["Senior Software Architect", "AI Engineering Leadership", "Open Source Impact"],
 };
 ```
 
 ---
 
-## 🔗 Connect & Collaborate
+## Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yogendra-singh-4279251b1" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/yogendra-singh-4279251b1">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:iamfaujdar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://github.com/RoastCoder" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/RoastCoder">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://twitter.com/RoastCoder" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://discord.gg/your-discord" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <a href="https://twitter.com/RoastCoder">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-111111?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
 ---
 
-## 🔥 Developer Philosophy
-
-<div align="center">
-
-> *"I don't just fix bugs… I roast them until they confess their sins and promise never to return!"* 😎🔥
-
-### 💭 My Coding Principles
-**Clean Code** • **Scalable Architecture** • **Security First** • **User Experience** • **Continuous Learning**
-
-</div>
-
----
-
-## 📈 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   12 hrs 30 mins  ████████████░░░░░░░░░░░░░   48.2%
-Python       8 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   31.8%
-JavaScript   3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   14.5%
-PHP          1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░    5.8%
-```
-<!--END_SECTION:waka-->
-
----
-
-<div align="center">
-
-### 🌟 "Code is like humor. When you have to explain it, it's bad." 🌟
-
-**Thanks for visiting my profile! Let's build something amazing together! 🚀**
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Happy+Coding!;Let's+Connect+%26+Collaborate!;Building+the+Future+Together!)](https://git.io/typing-svg)
-
-**⭐ If you like my work, show some ❤️ by starring my repositories! ⭐**
-
-</div>
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>alable Architecture** • **Security First** • **User Experience** • **Continuous Learning**
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RoastCoder/RoastCoder/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
-## 📈 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-TypeScript   12 hrs 30 mins  ████████████░░░░░░░░░░░░░   48.2%
-Python       8 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   31.8%
-JavaScript   3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   14.5%
-PHP          1 hr 30 mins    █░░░░░░░░░░░░░░░░░░░░░░░░    5.8%
-```
-<!--END_SECTION:waka-->
-
----
-
-<div align="center">
-
-### 🌟 "Code is like humor. When you have to explain it, it's bad." 🌟
-
-**Thanks for visiting my profile! Let's build something amazing together! 🚀**
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Happy+Coding!;Let's+Connect+%26+Collaborate!;Building+the+Future+Together!)](https://git.io/typing-svg)
-
-**⭐ If you like my work, show some ❤️ by starring my repositories! ⭐**
-
-</div>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <i>"I don't just fix bugs, I roast them."</i><br />
+  Open to collaboration on full-stack, AI, and product engineering work.
 </p>
