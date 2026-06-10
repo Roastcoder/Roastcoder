@@ -60,7 +60,7 @@ Hi there! I'm an ambitious and detail-oriented Full Stack Developer specializing
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roastcoder&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages Expanded" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Roastcoder&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=4" alt="Trophies" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Roastcoder&theme=tokyonight" alt="Profile Summary" width="48%"/>
 </div>
 
 <br/>
