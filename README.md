@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=ROASTCODER&fontSize=90&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Architect%20|%20Data%20Engineer%20|%20Open%20Source&descAlignY=60&descSize=25" alt="Massive Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=ROASTCODER&fontSize=90&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Architect%20|%20Data%20Engineer%20|%20Open%20Source&descAlignY=60&descSize=25" alt="Massive Banner" width="100%" />
 </div>
 
 <div align="center">
@@ -59,8 +59,13 @@ Hi there! I'm an ambitious and detail-oriented Full Stack Developer specializing
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roastcoder&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages Expanded" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Roastcoder&theme=tokyonight" alt="Profile Summary" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Roastcoder&theme=tokyonight" alt="Profile Summary" width="100%"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roastcoder&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages Expanded" width="60%" />
 </div>
 
 <br/>
