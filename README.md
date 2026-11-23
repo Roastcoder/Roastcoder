@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:132A13,100:B9FF66&height=260&section=header&text=ROASTCODER&fontSize=86&fontColor=F7F8F3&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Architect%20%E2%80%A2%20Cloud%20%26%20DevOps%20%E2%80%A2%20Builder%20of%20StandaloneCoders&descSize=20&descAlignY=58&descAlign=50" alt="Roastcoder" width="100%" />
+<img src="./banner.svg" alt="ROASTCODER: Full Stack Architect, Cloud and DevOps, builder of StandaloneCoders" width="100%" />
 
 <a href="https://standalonecoders.com">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&color=B9FF66&center=true&vCenter=true&width=720&height=44&lines=%24+whoami+%E2%86%92+full+stack+%2B+cloud+architect;%24+building+StandaloneCoders+Cloud+%E2%98%81%EF%B8%8F;%24+self-hosted+%C2%B7+mail+%C2%B7+WhatsApp+AI+%C2%B7+safe+updates;%24+shipping+from+my+own+servers+%F0%9F%9A%80" alt="Typing intro" />
