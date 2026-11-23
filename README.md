@@ -1,4 +1,4 @@
-<a href="https://standalonecoders.com"><img src="./assets/banner-2026.svg" alt="Roastcoder: full stack developer and cloud architect, founder of StandaloneCoders" width="100%" /></a>
+<a href="https://standalonecoders.com"><img src="./assets/banner.svg" alt="Roastcoder: full stack developer and cloud architect, founder of StandaloneCoders" width="100%" /></a>
 
 <p align="center">
   <a href="https://standalonecoders.com"><img src="https://img.shields.io/badge/Studio-standalonecoders.com-B9FF66?style=flat-square&labelColor=101211" alt="Studio" /></a>

@@ -18,7 +18,7 @@
 
   <g font-family="Inter,'Segoe UI',system-ui,-apple-system,sans-serif">
     <rect x="64" y="64" width="268" height="32" rx="16" fill="#B9FF66"/>
-    <text x="198" y="85" text-anchor="middle" fill="#101211" font-size="14" font-weight="700" letter-spacing="1.5">FOUNDER · STANDALONECODERS</text>
+    <text x="198" y="85" text-anchor="middle" fill="#101211" font-size="12.5" font-weight="700" letter-spacing="0.8" textLength="236" lengthAdjust="spacingAndGlyphs">FOUNDER · STANDALONECODERS</text>
     <text x="62" y="170" fill="#F7F8F3" font-size="76" font-weight="800" letter-spacing="-1">Roastcoder</text>
     <text x="64" y="214" fill="#C9D1C4" font-size="24">Full stack developer &amp; cloud architect.</text>
     <text x="64" y="248" fill="#C9D1C4" font-size="24">I build platforms you can <tspan fill="#B9FF66" font-weight="700">self-host</tspan>.</text>
