@@ -16,6 +16,8 @@ jobs:
       - run: python3 scripts/stats.py --test && python3 scripts/stats.py
         env:
           GH_TOKEN: ${{ github.token }}
+          # Optional: a token with read access to your private repos, so the languages card refreshes too.
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
       - name: Commit the new cards
         run: |
           git config user.name "github-actions[bot]"

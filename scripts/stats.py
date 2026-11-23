@@ -4,7 +4,7 @@
 Runs daily in .github/workflows/stats.yml. Uses the `gh` CLI, so it needs GH_TOKEN (or a local `gh auth login`).
 Self-check: python3 scripts/stats.py --test
 """
-import json, subprocess, sys
+import json, os, subprocess, sys
 from datetime import date, timedelta
 from html import escape
 from pathlib import Path
@@ -23,9 +23,27 @@ QUERY = """query($login:String!){user(login:$login){
     contributionCalendar{totalContributions weeks{contributionDays{contributionCount date}}}}}}"""
 
 
+LANG_QUERY = """query($endCursor:String){viewer{login repositories(ownerAffiliations:OWNER,isFork:false,first:100,after:$endCursor){
+  pageInfo{hasNextPage endCursor} nodes{languages(first:10,orderBy:{field:SIZE,direction:DESC}){edges{size node{name color}}}}}}}"""
+MARKUP = {"HTML", "CSS", "SCSS", "Less", "Jupyter Notebook"}
+
+
 def fetch():
     raw = subprocess.check_output(["gh", "api", "graphql", "-f", f"query={QUERY}", "-f", f"login={LOGIN}"])
     return json.loads(raw)["data"]["user"]
+
+
+def fetch_all_repos():
+    """All own repos, private included. Needs a token that belongs to the account (local gh login or STATS_TOKEN)."""
+    env = dict(os.environ, GH_TOKEN=os.environ["STATS_TOKEN"]) if os.environ.get("STATS_TOKEN") else None
+    try:
+        raw = subprocess.check_output(["gh", "api", "graphql", "--paginate", "--slurp", "-f", f"query={LANG_QUERY}"], env=env)
+    except subprocess.CalledProcessError:  # the plain Actions token has no viewer
+        return None
+    pages = json.loads(raw)
+    if pages[0]["data"]["viewer"]["login"].lower() != LOGIN.lower():
+        return None
+    return [r for p in pages for r in p["data"]["viewer"]["repositories"]["nodes"]]
 
 
 def streaks(days):
@@ -44,11 +62,14 @@ def streaks(days):
 
 
 def languages(repos, top=6):
+    """Each repo counts once, split by its code size, so one huge repo cannot outweigh the rest. Markup is left out."""
     sizes = {}
     for r in repos:
-        for e in r["languages"]["edges"]:
+        edges = [e for e in r["languages"]["edges"] if e["node"]["name"] not in MARKUP]
+        repo_total = sum(e["size"] for e in edges)
+        for e in edges:
             name, color = e["node"]["name"], e["node"]["color"] or MUTED
-            sizes.setdefault(name, [0, color])[0] += e["size"]
+            sizes.setdefault(name, [0, color])[0] += e["size"] / repo_total
     total = sum(s for s, _ in sizes.values()) or 1
     ranked = sorted(sizes.items(), key=lambda kv: -kv[1][0])[:top]
     return [(n, c, s / total * 100) for n, (s, c) in ranked]
@@ -119,7 +140,9 @@ def render(u):
     current, longest = streaks(days)
     OUT.mkdir(exist_ok=True)
     (OUT / "stats.svg").write_text(stats_svg(u, current, longest, date.today().isoformat()))
-    (OUT / "languages.svg").write_text(languages_svg(languages(u["repositories"]["nodes"])))
+    repos = fetch_all_repos()
+    if repos:  # without a token for the account (plain Actions token), keep the last languages card
+        (OUT / "languages.svg").write_text(languages_svg(languages(repos)))
     (OUT / "heatmap.svg").write_text(heatmap_svg(u["contributionsCollection"]["contributionCalendar"]["weeks"]))
 
 
@@ -129,8 +152,8 @@ def self_test():
     assert streaks([day(1, 0), day(1, 1), day(0, 2)]) == (2, 2)  # empty today keeps yesterday's streak
     assert streaks([day(1, 0), day(0, 1), day(0, 2)]) == (0, 1)
     repo = lambda *e: {"languages": {"edges": [{"size": s, "node": {"name": n, "color": None}} for n, s in e]}}
-    langs = languages([repo(("PHP", 75), ("JS", 25)), repo(("JS", 100))])
-    assert [n for n, _, _ in langs] == ["JS", "PHP"] and langs[0][2] == 62.5
+    langs = languages([repo(("PHP", 75), ("JS", 25), ("HTML", 900)), repo(("JS", 100)), repo(("HTML", 50))])
+    assert [n for n, _, _ in langs] == ["JS", "PHP"] and langs[0][2] == 62.5  # per repo, HTML ignored
     print("ok")
 
 
