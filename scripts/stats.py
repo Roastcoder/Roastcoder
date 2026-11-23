@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Draws the profile stats cards (assets/stats.svg, languages.svg, heatmap.svg) from the GitHub API.
+"""Draws the profile stats cards (assets/stats.svg, top-languages.svg, heatmap.svg) from the GitHub API.
 
 Runs daily in .github/workflows/stats.yml. Uses the `gh` CLI, so it needs GH_TOKEN (or a local `gh auth login`).
 Self-check: python3 scripts/stats.py --test
@@ -142,7 +142,7 @@ def render(u):
     (OUT / "stats.svg").write_text(stats_svg(u, current, longest, date.today().isoformat()))
     repos = fetch_all_repos()
     if repos:  # without a token for the account (plain Actions token), keep the last languages card
-        (OUT / "languages.svg").write_text(languages_svg(languages(repos)))
+        (OUT / "top-languages.svg").write_text(languages_svg(languages(repos)))
     (OUT / "heatmap.svg").write_text(heatmap_svg(u["contributionsCollection"]["contributionCalendar"]["weeks"]))
 
 

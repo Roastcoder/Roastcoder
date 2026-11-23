@@ -73,6 +73,6 @@ A car-loan platform for a lending business, from the first application to the pa
 
 <img src="./assets/stats.svg" alt="GitHub stats for this year" width="100%" />
 <img src="./assets/heatmap.svg" alt="Contribution heatmap for the last year" width="100%" />
-<img src="./assets/languages.svg" alt="Most used languages" width="100%" />
+<img src="./assets/top-languages.svg" alt="Most used languages" width="100%" />
 
 <sub>Cards are drawn by <a href="./scripts/stats.py">scripts/stats.py</a> and refreshed every morning by a GitHub Action.</sub>
