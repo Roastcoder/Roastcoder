@@ -15,11 +15,12 @@
 Hi there! I'm an ambitious and detail-oriented **Full Stack Developer & Cloud Architect** specializing in building robust, scalable, and beautifully designed applications. I love diving deep into architectural problems, optimizing databases, building cloud infrastructure, and creating seamless developer and user experiences.
 
 - 🔭 **Currently Building:**
-  - **[StandaloneCoders Cloud](https://github.com/Roastcoder/standalonecoders-cloud)** — A self-hosted PaaS platform built on Coolify featuring a built-in mail server (Maddy with DKIM/SPF/DMARC), native Outlook-style Webmail (**StandaloneCoders Mail**), SMS OTP sign-in, and automated multi-arch CI/CD.
+  - **[StandaloneCoders Cloud](https://standalonecoders.com/cloud)** — A self-hosted PaaS built on Coolify with a free mail server and webmail (**StandaloneCoders Mail**), a WhatsApp AI assistant on a local model, SMS sign-in codes, and one-click updates that keep all your data. Installs with one command: [standalonecoders-cloud-install](https://github.com/Roastcoder/standalonecoders-cloud-install).
   - **Car Credit Hub** — Architecting enterprise-level features for automotive credit and financing workflows.
 - 🌱 **Currently Exploring:** Advanced Microservices, Kubernetes Orchestration, and High-Throughput Cloud Scaling.
 - 👯 **Looking to Collaborate On:** High-impact Open Source projects, cloud platforms, and innovative SaaS tools.
 - 💬 **Ask me about:** Laravel, PHP, React, Next.js, Node.js, Docker, Linux, System Architecture & DevOps.
+- 🌐 **Studio:** [standalonecoders.com](https://standalonecoders.com)
 - 📫 **How to reach me:** [yogendra6378@gmail.com](mailto:yogendra6378@gmail.com)
 - ⚡ **Fun Fact:** I can debug complex asynchronous race conditions faster than I can decide what to eat for lunch.
 
@@ -35,10 +36,13 @@ Hi there! I'm an ambitious and detail-oriented **Full Stack Developer & Cloud Ar
       <ul>
         <li><b>Built-in Mail Server:</b> Powered by Maddy with DKIM, SPF, DMARC, and automatic Let's Encrypt SSL.</li>
         <li><b>StandaloneCoders Mail:</b> Custom Outlook-style Webmail with Compose, Reply, Forward, and IMAP/SMTP sync.</li>
+        <li><b>WhatsApp AI Assistant:</b> Check servers, restart or redeploy apps from WhatsApp, running on a local AI model.</li>
+        <li><b>Safe Updates:</b> One-click updates with live progress and automatic backups. No data lost.</li>
         <li><b>DevOps Pipeline:</b> Automated daily upstream sync and multi-architecture Docker image builds.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/Roastcoder/standalonecoders-cloud"><b>Explore Repository &rarr;</b></a>
+        <a href="https://github.com/Roastcoder/standalonecoders-cloud-install"><b>Install it &rarr;</b></a> &nbsp;·&nbsp;
+        <a href="https://standalonecoders.com/cloud"><b>Read the guide &rarr;</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -55,6 +59,26 @@ Hi there! I'm an ambitious and detail-oriented **Full Stack Developer & Cloud Ar
     </td>
   </tr>
 </table>
+
+<br/>
+
+### ☁️ Try StandaloneCoders Cloud
+
+One command on an Ubuntu or Debian server. No account or token needed:
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/Roastcoder/standalonecoders-cloud-install/main/install.sh | sudo bash
+```
+
+```text
+  ███████╗ ██████╗    ██████╗██╗      ██████╗ ██╗   ██╗██████╗
+  ██╔════╝██╔════╝   ██╔════╝██║     ██╔═══██╗██║   ██║██╔══██╗
+  ███████╗██║        ██║     ██║     ██║   ██║██║   ██║██║  ██║
+  ╚════██║██║        ██║     ██║     ██║   ██║██║   ██║██║  ██║
+  ███████║╚██████╗   ╚██████╗███████╗╚██████╔╝╚██████╔╝██████╔╝
+  ╚══════╝ ╚═════╝    ╚═════╝╚══════╝ ╚═════╝  ╚═════╝ ╚═════╝
+  StandaloneCoders Cloud installer   mail · WhatsApp AI · safe updates
+```
 
 <br/>
 
