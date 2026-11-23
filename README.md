@@ -1,70 +1,87 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=ROASTCODER&fontSize=90&animation=twinkling&fontAlignY=40&desc=Full%20Stack%20Architect%20|%20Cloud%20%26%20DevOps%20|%20Open%20Source&descAlignY=60&descSize=25" alt="Profile Banner" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:132A13,100:B9FF66&height=260&section=header&text=ROASTCODER&fontSize=86&fontColor=F7F8F3&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Architect%20%E2%80%A2%20Cloud%20%26%20DevOps%20%E2%80%A2%20Builder%20of%20StandaloneCoders&descSize=20&descAlignY=58&descAlign=50" alt="Roastcoder" width="100%" />
+
+<a href="https://standalonecoders.com">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&color=B9FF66&center=true&vCenter=true&width=720&height=44&lines=%24+whoami+%E2%86%92+full+stack+%2B+cloud+architect;%24+building+StandaloneCoders+Cloud+%E2%98%81%EF%B8%8F;%24+self-hosted+%C2%B7+mail+%C2%B7+WhatsApp+AI+%C2%B7+safe+updates;%24+shipping+from+my+own+servers+%F0%9F%9A%80" alt="Typing intro" />
+</a>
+
+<p>
+  <a href="https://standalonecoders.com"><img src="https://img.shields.io/badge/standalonecoders.com-101211?style=for-the-badge&logo=googlechrome&logoColor=B9FF66" alt="Website" /></a>
+  <a href="https://standalonecoders.com/cloud"><img src="https://img.shields.io/badge/Cloud%20Guide-B9FF66?style=for-the-badge&logo=icloud&logoColor=101211" alt="Cloud guide" /></a>
+  <a href="mailto:yogendra6378@gmail.com"><img src="https://img.shields.io/badge/Email-101211?style=for-the-badge&logo=gmail&logoColor=B9FF66" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Roastcoder&style=for-the-badge&color=B9FF66&labelColor=101211&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
 </div>
+
+---
+
+### `> about.me`
+
+```ts
+const roastcoder = {
+  role:       "Full Stack Developer & Cloud Architect",
+  building:   ["StandaloneCoders Cloud", "Car Credit Hub"],
+  loves:      ["system architecture", "self-hosting", "clean DX", "fast databases"],
+  askMeAbout: ["Laravel", "React", "Next.js", "Node.js", "Docker", "Linux", "DevOps"],
+  exploring:  ["Kubernetes", "microservices", "high-throughput scaling"],
+  funFact:    "I debug async race conditions faster than I pick lunch 🍔",
+};
+```
+
+---
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=850&height=50&lines=>_Initializing+System...;>_Architecting+StandaloneCoders+Cloud...;>_Building+Robust+Full+Stack+%26+Cloud+Systems...;>_Access+Granted:+Welcome+to+my+Matrix+🚀" alt="Typing SVG" />
-  </a>
+
+## ☁️ StandaloneCoders Cloud
+
+**Deploy apps, databases and email on your own servers.** A self-hosted PaaS built on Coolify.
+
+<a href="https://standalonecoders.com/cloud">
+  <img src="https://standalonecoders.com/assets/portfolio/standalonecoders-cloud-cover.webp" alt="StandaloneCoders Cloud" width="88%" />
+</a>
+
 </div>
-
-<br/>
-
-## 👨‍💻 About Me
-
-Hi there! I'm an ambitious and detail-oriented **Full Stack Developer & Cloud Architect** specializing in building robust, scalable, and beautifully designed applications. I love diving deep into architectural problems, optimizing databases, building cloud infrastructure, and creating seamless developer and user experiences.
-
-- 🔭 **Currently Building:**
-  - **[StandaloneCoders Cloud](https://standalonecoders.com/cloud)** — A self-hosted PaaS built on Coolify with a free mail server and webmail (**StandaloneCoders Mail**), a WhatsApp AI assistant on a local model, SMS sign-in codes, and one-click updates that keep all your data. Installs with one command: [standalonecoders-cloud-install](https://github.com/Roastcoder/standalonecoders-cloud-install).
-  - **Car Credit Hub** — Architecting enterprise-level features for automotive credit and financing workflows.
-- 🌱 **Currently Exploring:** Advanced Microservices, Kubernetes Orchestration, and High-Throughput Cloud Scaling.
-- 👯 **Looking to Collaborate On:** High-impact Open Source projects, cloud platforms, and innovative SaaS tools.
-- 💬 **Ask me about:** Laravel, PHP, React, Next.js, Node.js, Docker, Linux, System Architecture & DevOps.
-- 🌐 **Studio:** [standalonecoders.com](https://standalonecoders.com)
-- 📫 **How to reach me:** [yogendra6378@gmail.com](mailto:yogendra6378@gmail.com)
-- ⚡ **Fun Fact:** I can debug complex asynchronous race conditions faster than I can decide what to eat for lunch.
-
-<br/>
-
-## 🚀 Featured Projects
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">☁️ StandaloneCoders Cloud</h3>
-      <p>Self-hosted cloud PaaS alternative to Heroku & Vercel. Deploy apps, databases, and services to your own servers over SSH with automatic HTTPS, teams, and API.</p>
-      <ul>
-        <li><b>Built-in Mail Server:</b> Powered by Maddy with DKIM, SPF, DMARC, and automatic Let's Encrypt SSL.</li>
-        <li><b>StandaloneCoders Mail:</b> Custom Outlook-style Webmail with Compose, Reply, Forward, and IMAP/SMTP sync.</li>
-        <li><b>WhatsApp AI Assistant:</b> Check servers, restart or redeploy apps from WhatsApp, running on a local AI model.</li>
-        <li><b>Safe Updates:</b> One-click updates with live progress and automatic backups. No data lost.</li>
-        <li><b>DevOps Pipeline:</b> Automated daily upstream sync and multi-architecture Docker image builds.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/Roastcoder/standalonecoders-cloud-install"><b>Install it &rarr;</b></a> &nbsp;·&nbsp;
-        <a href="https://standalonecoders.com/cloud"><b>Read the guide &rarr;</b></a>
-      </p>
+    <td width="33%" align="center" valign="top">
+      <h3>📬</h3>
+      <b>Free mail server</b><br/>
+      <sub>Mailboxes for your domains with DKIM, SPF and DMARC, plus an Outlook-style webmail.</sub>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🚗 Car Credit Hub</h3>
-      <p>Enterprise automotive financing and credit management platform engineered with modern full-stack architecture.</p>
-      <ul>
-        <li><b>Scalable Architecture:</b> High-performance backend handling complex financial calculations and loan pipelines.</li>
-        <li><b>Secure Workflows:</b> End-to-end data encryption, identity verification, and multi-tier role-based access.</li>
-        <li><b>Modern UI/UX:</b> Streamlined responsive frontend for seamless customer and underwriter workflows.</li>
-      </ul>
-      <p align="center">
-        <b>Enterprise Platform</b>
-      </p>
+    <td width="33%" align="center" valign="top">
+      <h3>🤖</h3>
+      <b>WhatsApp AI assistant</b><br/>
+      <sub>Check servers, restart or redeploy apps from WhatsApp. Runs on a local AI model.</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🔄</h3>
+      <b>Safe one-click updates</b><br/>
+      <sub>Live progress and an automatic backup first. Update anytime, no data lost.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>🔐</h3>
+      <b>SMS sign-in codes</b><br/>
+      <sub>A one-time code on your phone after your password.</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🧑‍💻</h3>
+      <b>VS Code in the browser</b><br/>
+      <sub>Open any app's code straight from the panel.</sub>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🩹</h3>
+      <b>Background server patching</b><br/>
+      <sub>OS updates with a progress bar, so you can leave the page.</sub>
     </td>
   </tr>
 </table>
 
-<br/>
-
-### ☁️ Try StandaloneCoders Cloud
-
-One command on an Ubuntu or Debian server. No account or token needed:
+**Install in one command** on Ubuntu or Debian. No account or token needed:
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/Roastcoder/standalonecoders-cloud-install/main/install.sh | sudo bash
@@ -80,62 +97,47 @@ curl -fsSL https://raw.githubusercontent.com/Roastcoder/standalonecoders-cloud-i
   StandaloneCoders Cloud installer   mail · WhatsApp AI · safe updates
 ```
 
-<br/>
-
-## 🛠️ Extensive Tech Stack & Arsenal
-
-### 🎨 Frontend Development
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,redux,vite,figma&theme=dark" alt="Frontend Skills" />
-  </a>
-</p>
-
-### ⚙️ Backend & Architecture
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,nest,python,django,graphql&theme=dark" alt="Backend Skills" />
-  </a>
-</p>
-
-### 🗄️ Database, Cloud & DevOps
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,kubernetes,aws,nginx,linux,git,github&theme=dark" alt="DevOps Skills" />
-  </a>
-</p>
-
-<br/>
-
-## 📈 Deep Telemetry & GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roastcoder&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&rank_icon=github&count_private=true" alt="Detailed GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roastcoder&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <a href="https://github.com/Roastcoder/standalonecoders-cloud-install"><img src="https://img.shields.io/badge/Install%20it-B9FF66?style=for-the-badge&logo=github&logoColor=101211" alt="Install it" /></a>
+  <a href="https://standalonecoders.com/cloud"><img src="https://img.shields.io/badge/Read%20the%20guide-101211?style=for-the-badge&logo=readthedocs&logoColor=B9FF66" alt="Read the guide" /></a>
 </div>
 
-<br>
+---
+
+### 🚗 Car Credit Hub
+
+Enterprise automotive financing and credit platform: loan pipelines, role-based workflows for every desk, and secure, responsive interfaces for customers and underwriters.
+
+---
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Roastcoder&theme=tokyonight" alt="Profile Summary" width="100%"/>
+
+## 🛠️ Tech Stack
+
+<sub><b>FRONTEND</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,vite,html,css,redux,figma&theme=dark&perline=10" alt="Frontend" />
+
+<sub><b>BACKEND</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,nest,python,django,graphql&theme=dark&perline=10" alt="Backend" />
+
+<sub><b>DATA, CLOUD &amp; DEVOPS</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,kubernetes,aws,nginx,linux,git,github&theme=dark&perline=11" alt="DevOps" />
+
 </div>
 
-<br>
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roastcoder&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" width="60%" />
+
+## 📈 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Roastcoder&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=101211&title_color=B9FF66&icon_color=B9FF66&text_color=E6E8E3&ring_color=B9FF66&rank_icon=github" alt="GitHub stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roastcoder&layout=compact&langs_count=8&hide_border=true&bg_color=101211&title_color=B9FF66&text_color=E6E8E3" alt="Top languages" height="170" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Roastcoder&hide_border=true&background=101211&ring=B9FF66&fire=B9FF66&currStreakLabel=B9FF66&sideLabels=E6E8E3&currStreakNum=F7F8F3&sideNums=F7F8F3&dates=8B9387&stroke=2A2F2B" alt="GitHub streak" width="70%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Roastcoder&bg_color=101211&color=E6E8E3&line=B9FF66&point=F7F8F3&area=true&area_color=B9FF66&title_color=B9FF66&hide_border=true" alt="Contribution graph" width="100%" />
+
 </div>
 
-<br/>
-
-## 🌌 Activity Heatmap
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roastcoder&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:B9FF66,50:132A13,100:0D1117&height=120&section=footer" alt="" width="100%" />
