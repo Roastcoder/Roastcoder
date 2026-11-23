@@ -56,7 +56,12 @@ curl -fsSL https://raw.githubusercontent.com/Roastcoder/standalonecoders-cloud-i
 
 ## 🚗 Car Credit Hub
 
-Enterprise automotive financing and credit platform: loan pipelines that handle complex financial calculations, secure role-based workflows, and a fast, responsive interface for customers and underwriters.
+A car-loan platform for a lending business, from the first application to the payout.
+
+| | | |
+|:--|:--|:--|
+| 📝 **Loan pipeline**<br/><sub>Applications, documents and approvals in one flow</sub> | 🧑‍💼 **A desk for every role**<br/><sub>Sales, RBM, insurance, accounts, PDD and admins each see their own work</sub> | 💸 **Payments & vouchers**<br/><sub>Approvals, vouchers, UTR and proof of payment, tracked end to end</sub> |
+| 💬 **WhatsApp bot**<br/><sub>Each person gets a menu for their role and a "waiting for me" queue</sub> | 📊 **Live summaries**<br/><sub>Dashboards and per-role counts on web and WhatsApp</sub> | 🔒 **Role-based access**<br/><sub>Sensitive data only for the roles that need it</sub> |
 
 ## 🧰 Toolbox
 
