@@ -1,28 +1,42 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="ROASTCODER: Full Stack Architect, Cloud and DevOps, builder of StandaloneCoders">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Roastcoder, also known as BuildWithYogi: full stack developer and cloud architect, founder of StandaloneCoders">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0D1117"/>
-      <stop offset="0.6" stop-color="#101A12"/>
-      <stop offset="1" stop-color="#132A13"/>
+      <stop offset="1" stop-color="#0F1A10"/>
     </linearGradient>
-    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#B9FF66" stop-opacity="0.15"/>
-      <stop offset="1" stop-color="#B9FF66" stop-opacity="0.9"/>
-    </linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#B9FF66" stroke-opacity="0.06"/>
+    <radialGradient id="glow" cx="0.82" cy="0.2" r="0.6">
+      <stop offset="0" stop-color="#B9FF66" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#B9FF66" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#B9FF66" fill-opacity="0.09"/>
     </pattern>
   </defs>
-  <rect width="1200" height="300" rx="18" fill="url(#bg)"/>
-  <rect width="1200" height="300" rx="18" fill="url(#grid)"/>
-  <path d="M0 250 C 220 200, 420 300, 640 250 S 1000 190, 1200 235 V300 H0Z" fill="url(#wave)" opacity="0.35"/>
-  <path d="M0 270 C 260 230, 460 310, 700 268 S 1040 225, 1200 258 V300 H0Z" fill="#B9FF66" opacity="0.85"/>
-  <g font-family="'Fira Code','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,monospace" text-anchor="middle">
-    <text x="600" y="62" fill="#B9FF66" font-size="18" letter-spacing="4">~/roastcoder $ whoami</text>
-    <text x="600" y="148" fill="#F7F8F3" font-size="84" font-weight="800" letter-spacing="6" font-family="Inter,'Segoe UI',system-ui,-apple-system,sans-serif">ROASTCODER</text>
-    <text x="600" y="194" fill="#C9CFC4" font-size="21">Full Stack Architect  ·  Cloud &amp; DevOps  ·  Builder of StandaloneCoders</text>
+  <rect width="1200" height="340" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="340" rx="20" fill="url(#dots)"/>
+  <rect width="1200" height="340" rx="20" fill="url(#glow)"/>
+
+  <g font-family="Inter,'Segoe UI',system-ui,-apple-system,sans-serif">
+    <rect x="64" y="64" width="268" height="32" rx="16" fill="#B9FF66"/>
+    <text x="198" y="85" text-anchor="middle" fill="#101211" font-size="14" font-weight="700" letter-spacing="1.5">FOUNDER · STANDALONECODERS</text>
+    <text x="62" y="170" fill="#F7F8F3" font-size="76" font-weight="800" letter-spacing="-1">Roastcoder</text>
+    <text x="64" y="214" fill="#C9D1C4" font-size="24">Full stack developer &amp; cloud architect.</text>
+    <text x="64" y="248" fill="#C9D1C4" font-size="24">I build platforms you can <tspan fill="#B9FF66" font-weight="700">self-host</tspan>.</text>
+    <text x="64" y="296" fill="#6E7781" font-size="16" font-family="'Fira Code',ui-monospace,Menlo,monospace">@BuildWithYogi · standalonecoders.com</text>
   </g>
-  <circle cx="34" cy="30" r="6" fill="#FF5F56"/>
-  <circle cx="54" cy="30" r="6" fill="#FFBD2E"/>
-  <circle cx="74" cy="30" r="6" fill="#B9FF66"/>
+
+  <g transform="translate(690 58)">
+    <rect width="450" height="226" rx="14" fill="#0B0F14" stroke="#2A323A"/>
+    <circle cx="22" cy="22" r="6" fill="#FF5F56"/><circle cx="42" cy="22" r="6" fill="#FFBD2E"/><circle cx="62" cy="22" r="6" fill="#B9FF66"/>
+    <text x="225" y="27" text-anchor="middle" fill="#6E7781" font-size="13" font-family="'Fira Code',ui-monospace,Menlo,monospace">~/standalonecoders-cloud</text>
+    <line x1="0" y1="44" x2="450" y2="44" stroke="#2A323A"/>
+    <g font-family="'Fira Code',ui-monospace,Menlo,monospace" font-size="15">
+      <text x="22" y="78" fill="#B9FF66">$ <tspan fill="#F7F8F3">curl -fsSL …/install.sh | bash</tspan></text>
+      <text x="22" y="110" fill="#8B949E">[1/4] <tspan fill="#C9D1C4">Checking the server</tspan></text>
+      <text x="22" y="136" fill="#B9FF66">  ✓ <tspan fill="#C9D1C4">Mail server + webmail</tspan></text>
+      <text x="22" y="162" fill="#B9FF66">  ✓ <tspan fill="#C9D1C4">WhatsApp AI assistant</tspan></text>
+      <text x="22" y="188" fill="#B9FF66">  ✓ <tspan fill="#C9D1C4">Backup done, no data lost</tspan></text>
+      <text x="22" y="212" fill="#B9FF66">$ <tspan fill="#B9FF66">▍</tspan></text>
+    </g>
+  </g>
 </svg>
